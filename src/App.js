@@ -10,7 +10,7 @@ export default function App() {
 
 
   //Declaring the operators
-  const ops = ["/", "*", "+", "-", ".", "%"];
+  const ops = ["/", "*", "+", "-", "."];
 
 
   const updateCalc = (value) => {
